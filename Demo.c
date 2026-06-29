@@ -315,7 +315,7 @@ int main() {
       printf("\n Enter the URL: ");
       scanf("%d", &url);
 
-      int cunt = 1;
+      int count2 = 1;
 
       while (count2 <= 10) {
             int product = url * count2;
