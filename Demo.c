@@ -317,10 +317,10 @@ int main() {
 
       int cunt = 1;
 
-      while (cunt <= 10) {
-            int product = url * cunt;
-            printf("\n %d*%d = %d", url, cunt, product);
-            cunt = cunt + 1;
+      while (count2 <= 10) {
+            int product = url * count2;
+            printf("\n %d*%d = %d", url, count2, product);
+            count2 = count2 + 1;
       }
    return 0;
 
